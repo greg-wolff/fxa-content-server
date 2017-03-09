@@ -1,3 +1,18 @@
+<a name="1.83.0"></a>
+# 1.83.0 (2017-03-09)
+
+
+### Bug Fixes
+
+* **config:** allow env vars for experiment config (#4785) r=philbooth ([ea2c538](https://github.com/mozilla/fxa-content-server/commit/ea2c538)), closes [#4780](https://github.com/mozilla/fxa-content-server/issues/4780)
+* **CWTS:** Fix styles for the trustedUI (#4786) r=vladikoff ([e6aa57b](https://github.com/mozilla/fxa-content-server/commit/e6aa57b)), closes [(#4786](https://github.com/(/issues/4786) [#4749](https://github.com/mozilla/fxa-content-server/issues/4749)
+
+### Features
+
+* **CAD:** Add flow metrics for connect another device. (#4787) r=@philbooth ([65a70b0](https://github.com/mozilla/fxa-content-server/commit/65a70b0)), closes [#4783](https://github.com/mozilla/fxa-content-server/issues/4783)
+
+
+
 <a name="1.82.0"></a>
 # 1.82.0 (2017-03-06)
 
